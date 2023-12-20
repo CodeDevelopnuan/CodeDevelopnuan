@@ -5,7 +5,7 @@
 - ✍️ [Blogger](https://blog.csdn.net/weixin_45380782?spm=1000.2115.3001.5343)
 
 
-[![Farmer.Chillax's github stats](https://github-readme-stats.vercel.app/api?username=FarmerChillax)](https://github.com/anuraghazra/github-readme-stats)
+[![CodeDevelopnuan's github stats](https://github-readme-stats.vercel.app/api?username=FarmerChillax)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarmerChillax&layout=compact&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
