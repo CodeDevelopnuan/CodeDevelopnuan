@@ -2,8 +2,7 @@
 
 - 🔭 I’m an undergraduate student in China.
 - 🌱 I’m currently learning Kubernetes / Go / ~~C++~~ / Data Struct / Rust.
-- ✍️ [Blogger](https://blog.farmer233.top)
-- 🤔 [My Gitee](https://gitee.com/Farmer-chong)
+- ✍️ [Blogger](https://blog.csdn.net/weixin_45380782?spm=1000.2115.3001.5343)
 
 
 [![Farmer.Chillax's github stats](https://github-readme-stats.vercel.app/api?username=FarmerChillax)](https://github.com/anuraghazra/github-readme-stats)
