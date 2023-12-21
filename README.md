@@ -5,21 +5,13 @@
 - ✍️ [Blogger](https://blog.csdn.net/weixin_45380782?spm=1000.2115.3001.5343)
 
 
-[![CodeDevelopnuan's github stats](https://github-readme-stats.vercel.app/api?username=CodeDevelopnuan)](https://github.com/anuraghazra/github-readme-stats)
+[![CodeDevelopnuan's github stats](https://github-readme-stats.vercel.app/api?username=CoderResearch)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDevelopnuan&layout=compact&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderResearch&layout=compact&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://wakatime.com/@Farmer"> </a>
           <!--START_SECTION:waka-->
-
-```txt
-Go                         4 hrs 46 mins   █████████████░░░░░░░░░░░░   51.80 %
-Docker                     1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-Markdown                   1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Bash                       34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-YAML                       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-```
 
 <!--END_SECTION:waka-->
 
