@@ -2,7 +2,7 @@
 
 - 🔭 I’m an undergraduate student in China.
 - 🌱 I’m currently learning C++ / 嵌入式Linux.
-- ✍️ [Blogger](https://blog.csdn.net/weixin_45380782?spm=1000.2115.3001.5343)
+- ✍️ [Blog](https://blog.csdn.net/weixin_45380782?spm=1000.2115.3001.5343)
 
 
 [![CodeDevelopnuan's github stats](https://github-readme-stats.vercel.app/api?username=CoderResearch)](https://github.com/anuraghazra/github-readme-stats)
